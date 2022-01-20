@@ -1,0 +1,26 @@
+body {
+    background-image: url(Chrysanthemum.jpg);
+}
+
+.text { 
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 50px;
+    height: 1000px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    box-shadow: 10px 10px 20px black;
+    opacity: 0.9;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+}
+
+.main {
+    text-align: center;
+}
